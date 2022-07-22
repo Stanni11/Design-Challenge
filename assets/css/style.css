@@ -149,6 +149,10 @@ header {
     margin-top: 5%;
 }
 
+.p_element {
+    width: 65%;
+}
+
 .elemts {
     margin-left: 10%;
 
@@ -194,3 +198,42 @@ header {
 .element5 p {
     margin-top: 5px;
 }
+
+/* STYLES FÜR COPY UND PASTE */
+.a_universe {
+    display: flex;
+    margin-left: 10%;
+    margin-bottom: 20vh;
+}
+
+.p_01 {
+    color: #dddddd;
+    font-size: 7rem;
+    font-weight: 500;
+    margin-bottom: 6vh;
+}
+
+.img_man {
+    width: 40%;
+    height: 40vh;
+    margin-right: 20%;
+}
+
+.img_auge {
+    margin-bottom: 2vh;
+
+}
+
+.p_find {
+    font-weight: 800;
+    font-size: 1.5rem;
+    margin-bottom: 10vh;
+}
+
+.p_hasbeen {
+    width: 40%;
+    font-weight: 200;
+    line-height: 3;
+}
+
+/* STYLES FÜR COPY UND PASTE   ENDE */
