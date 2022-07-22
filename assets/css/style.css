@@ -89,20 +89,24 @@ header {
 .art2 {
     display: flex;
     justify-content: center;
+    margin-bottom: 20vh;
+    gap: 300px;
+
 }
 
 .divLeftArt2 {
-    margin-left: 10%;
     width: 25%;
 }
 
 .divLeftArt2>p {
-    font-size: 3rem;
+    font-size: 5rem;
     font-weight: 900;
+    width: 100%;
+
 }
 
 .divRightArt2 {
-    width: 50%;
+    width: 40%;
 }
 
 .idea {
@@ -110,5 +114,22 @@ header {
 }
 
 .divRightArt2>p {
-    line-height: 2;
+    line-height: 2.2;
+    width: 75%;
+}
+
+.after {
+    margin-left: 10%;
+    font-weight: 800s;
+    margin-bottom: 20vh;
+}
+
+.p_after {
+    font-size: 4rem;
+    width: 60%;
+}
+
+.p_sticking {
+    font-size: 4rem;
+    width: 50%;
 }
