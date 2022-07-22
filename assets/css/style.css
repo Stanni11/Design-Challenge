@@ -4,9 +4,7 @@ background-position: center;
     background-repeat: no-repeat;
     background-size: cover; */
 
-
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100;1,400&family=Work+Sans:ital,wght@0,100;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100;1,400&family=Work+Sans:wght@100&display=swap%27');
 
 * {
     box-sizing: border-box;
@@ -16,7 +14,7 @@ background-position: center;
 }
 
 header {
-    margin-bottom: 50vh;
+    margin-bottom: 13vh;
 }
 
 .h2_header {
@@ -78,4 +76,39 @@ header {
 #scrollMe {
     color: red;
     font-size: 1.2rem;
+}
+
+.art1 {
+    margin-bottom: 25vh;
+}
+
+.imagesArt1 {
+    width: 100%
+}
+
+.art2 {
+    display: flex;
+    justify-content: center;
+}
+
+.divLeftArt2 {
+    margin-left: 10%;
+    width: 25%;
+}
+
+.divLeftArt2>p {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.divRightArt2 {
+    width: 50%;
+}
+
+.idea {
+    height: 50px;
+}
+
+.divRightArt2>p {
+    line-height: 2;
 }
