@@ -47,10 +47,10 @@ header {
 
 
 .floating {
-    width: 50%;
-    height: 25vh;
+    width: 58%;
+    height: 69vh;
     background-image: url(../img/ilustracion_people.png), url(../img/ilustracion1.png);
-    min-height: 57vh;
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -65,7 +65,7 @@ header {
 
 .h2_how {
     font-size: 4rem;
-    margin-bottom: 5vh;
+    margin-bottom: 3vh;
 }
 
 .p_how {
@@ -77,4 +77,5 @@ header {
 
 #scrollMe {
     color: red;
+    font-size: 1.2rem;
 }
