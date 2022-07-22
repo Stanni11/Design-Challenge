@@ -133,3 +133,46 @@ header {
     font-size: 4rem;
     width: 50%;
 }
+
+.elements_4 {
+    display: flex;
+    gap: 50px;
+}
+
+.s_elements_4 {
+    display: flex;
+    width: 35%;
+}
+
+.elements_8 {
+    display: flex;
+}
+
+.elemts {
+    margin-left: 10%;
+
+}
+
+.s_elements_4 img {
+    height: 23px;
+    margin: 10px;
+    padding-right: 10px;
+}
+
+.s_elements_4 div h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2vh;
+}
+
+.s_elements_4 div p {
+    font-size: 1.5rem;
+}
+
+.extrawrap {
+    margin-bottom: 3vh;
+}
+
+.extrawrap_left {
+    margin-right: 20%;
+}
