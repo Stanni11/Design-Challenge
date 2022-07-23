@@ -13,6 +13,9 @@ background-position: center;
     font-family: 'Roboto', sans-serif;
 }
 
+
+
+
 header {
     margin-bottom: 13vh;
 }
@@ -44,7 +47,11 @@ header {
 }
 
 
-.floating {
+
+
+
+
+floating {
     width: 58%;
     height: 69vh;
     background-image: url(../img/ilustracion_people.png), url(../img/ilustracion1.png);
@@ -136,6 +143,7 @@ header {
 
 .elements_4 {
     display: flex;
+    justify-content: space-between;
 }
 
 .s_elements_4 {
@@ -147,6 +155,7 @@ header {
 .elements_8 {
     display: flex;
     margin-top: 5%;
+    justify-content: space-between;
 }
 
 .p_element {
@@ -177,6 +186,7 @@ header {
 
 .extrawrap {
     margin-bottom: 3vh;
+    margin-right: 15vh;
 }
 
 .extrawrap_left {
@@ -214,8 +224,8 @@ header {
 }
 
 .img_man {
-    width: 40%;
-    height: 40vh;
+    width: 60%;
+    height: 60vh;
     margin-right: 20%;
 }
 
